@@ -2,7 +2,7 @@
  <img src="https://github.com/backtony/backtony.github.io/blob/master/assets/img/readmelogo.gif" alt="my-logo" height="140" width="1000">
 </div>
  
-✨ *For More Info...* **[TECH BLOG](https://velog.io/@yssgood)**
+✨ *For More Info...* **[TECH BLOG](https://velog.io/@yssgood)** || **[Resume](https://granite-cerise-328.notion.site/a5e7c6be50474ed9a81f064326af2b42)**
 
 **Lotte Data Communication Center (2022.11 ~ now)**  
 
